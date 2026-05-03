@@ -9,8 +9,10 @@ On the engineering side, I build LLM applications, RAG pipelines, voice agents, 
 **Languages and Tools:**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,linux,huggingface,opencv&theme=dark" />
-**Also working with:** 
+
+**Also working with:**
 LangChain · LlamaIndex · Whisper · ElevenLabs · Deepgram · n8n · OpenAI API · Anthropic Claude API · HuggingFace Transformers
+
 ---
 
 **Selected work:**
