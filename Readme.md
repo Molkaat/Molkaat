@@ -22,7 +22,7 @@ Open to research collaborations and select engineering contracts.
 ViT-based face anti-spoofing across photos, video replays, and 3D masks.
 
 🏥 **[Healthcare AI — TWESD 2024](https://github.com/Molkaat/Healthcare-AI-TWESD-competition-2024)**
-Chest X-ray report generation. 1st place out of [N] teams. Fine-tuned image-to-text pipeline,
+Chest X-ray report generation. 1st place out of 20 teams. Fine-tuned image-to-text pipeline,
 0.2B model, deployed on HuggingFace.
 
 🎙️ **[Voice Cloning — Tacotron2](https://github.com/Molkaat/Voice-cloning_Tacotron2)**
