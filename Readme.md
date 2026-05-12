@@ -69,7 +69,7 @@ ElevenLabs · Deepgram · n8n · FastAPI
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) ·
+[LinkedIn]((https://www.linkedin.com/in/molka-t-886598159/)) ·
 [HuggingFace](https://huggingface.co/Molkaatb) ·
 [Portfolio](https://molkatrabelsi.vercel.app/) ·
-[Upwork](https://www.upwork.com/YOUR_PROFILE)
+[Upwork](https://www.upwork.com/freelancers/~01b9d25c34898949c3)
